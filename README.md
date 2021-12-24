@@ -1,7 +1,7 @@
 - 👋 Hi, I an Naseem Oyebola
 - 👀 I’m a tech enthusiast.
 - 🌱 An iOS Engineeer and a Biochemist. UIKit and SwiftUI
-- 💞️ I’m looking to collaborate on iOS and web development projects.
+- 💞️ I’m looking to collaborate on iOS projects.
 - 📫 you can reach me on WhatsApp (+2348188229514)
 (https://www.linkedin.com/in/oyebola-naseem-40a0011a2)
 e-mail (naseemoyebola@gmail.com)
