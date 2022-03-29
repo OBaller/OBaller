@@ -1,4 +1,4 @@
-- 👋 Hi, I an Naseem Oyebola
+- 👋 Hi, I am Naseem Oyebola
 - 👀 I’m a tech enthusiast.
 - 🌱 An iOS Engineeer and a Biochemist. UIKit and SwiftUI
 - 💞️ I’m looking to collaborate on iOS projects.
